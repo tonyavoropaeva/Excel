@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="434fbcec-c71b-4d63-a19a-7429878d907a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/academits/voropaeva/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/academits/voropaeva/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/academits/voropaeva/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="434fbcec-c71b-4d63-a19a-7429878d907a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,11 +69,24 @@
       <workItem from="1722186374192" duration="316000" />
       <workItem from="1722186698870" duration="940000" />
       <workItem from="1722187649116" duration="15180000" />
-      <workItem from="1722637818118" duration="4756000" />
+      <workItem from="1722637818118" duration="5107000" />
     </task>
+    <task id="LOCAL-00001" summary="Выполнила задачу Excel">
+      <option name="closed" value="true" />
+      <created>1722642662082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722642662082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Выполнила задачу Excel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнила задачу Excel" />
   </component>
 </project>
