@@ -1,4 +1,4 @@
-package ru.academits.voropaeva;
+package ru.academits.voropaeva.excel;
 
 public class Person {
     private String name;
